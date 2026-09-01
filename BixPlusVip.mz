@@ -1,0 +1,12 @@
+{
+  "appName": "SuperVix Vip",
+  "version": "1.52.1",
+  "forceUpdate": true,
+  "updateUrl": "https://bit.ly/4uIAGje",
+  "btnUpdateText": "Actualizar Ahora",
+  "btnExitText": "Salir",
+ "changelog": [
+ "Version Premium Desbloqueado",
+ "Sin anuncios"
+ ]
+}
